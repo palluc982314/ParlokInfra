@@ -19,4 +19,4 @@ Parlok Infra is an ASP.NET + SQL Server web application to manage construction p
 [Watch Demo Video](wwwroot/videos/demo.mp4)
 
 ## Screenshots
-![Home Page](wwwroot/images/project1.jpeg)
+![Home Page](wwwroot/images/bg.png)
